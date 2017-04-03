@@ -42,7 +42,7 @@ Alevin 2.2 (http://alevin.sf.net/)
         doi = {http://dx.doi.org/10.1016/j.jnca.2015.06.012},
         url = {http://www.sciencedirect.com/science/article/pii/S1084804515001393},
         author = {Michael Till Beck and Andreas Fischer and Juan-Felipe Botero and Claudia Linnhoff-Popien and Hermann {de Meer}}
-}
+    }
 
     @inproceedings {DPVNE,
         title = {A Distributed, Parallel, and Generic Virtual Network Embedding Framework},
